@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-15T17:33:46 GMT" name="Default suite" finished-at="2025-01-15T17:33:46 GMT" duration-ms="227">
+    <groups>
+    </groups>
+    <test started-at="2025-01-15T17:33:46 GMT" name="Default test" finished-at="2025-01-15T17:33:46 GMT" duration-ms="227">
+      <class name="testing.JunitTests">
+        <test-method signature="assertAmountofRows()[pri:0, instance:testing.JunitTests@1ed4ae0f]" started-at="2025-01-15T17:33:46 GMT" name="assertAmountofRows" finished-at="2025-01-15T17:33:46 GMT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertAmountofRows -->
+        <test-method signature="assertTrue()[pri:0, instance:testing.JunitTests@1ed4ae0f]" started-at="2025-01-15T17:33:46 GMT" name="assertTrue" finished-at="2025-01-15T17:33:46 GMT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTrue -->
+        <test-method signature="chechIfException()[pri:0, instance:testing.JunitTests@1ed4ae0f]" started-at="2025-01-15T17:33:46 GMT" name="chechIfException" finished-at="2025-01-15T17:33:46 GMT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chechIfException -->
+      </class> <!-- testing.JunitTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
